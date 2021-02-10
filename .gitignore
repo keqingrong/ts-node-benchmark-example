@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+.idea
+node_modules
+dist
+output
+coverage
+package-lock.json
+yarn.lock
