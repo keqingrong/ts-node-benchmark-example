@@ -1,1 +1,1 @@
-# ts-node-template
+# ts-node-benchmark-template
