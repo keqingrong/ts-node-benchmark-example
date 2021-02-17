@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-benchmark-template",
+  "name": "ts-node-benchmark-example",
   "version": "0.0.0",
   "description": "A TypeScript Node.js template",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keqingrong/ts-node-benchmark-template.git"
+    "url": "git+https://github.com/keqingrong/ts-node-benchmark-example.git"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
